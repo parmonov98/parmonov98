@@ -1,16 +1,15 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm a web dev! 👋
 
 ## About Me
-I am a passionate web developer with over [X] years of experience in building web applications and leading IT projects. I specialize in front-end and back-end development, and I am keen on creating efficient and scalable systems.
+I am a passionate web developer with over 4 years of experience in building web applications and leading IT projects. I specialize in front-end and back-end development, and I am keen on creating efficient and devleoping startups.
 
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m currently learning: [New Skills or Technologies]
-- 👯 I’m looking to collaborate on: [Types of Projects]
-- 🤔 I’m looking for help with: [Areas You Need Help With]
-- 💬 Ask me about: [Your Expertise Areas]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working on: pDaftar, and some automation projects.
+- 🌱 I’m currently learning: Docker, Kubernetees
+- 👯 I’m looking to collaborate on: AI, Crypto, Web3
+- 🤔 I’m looking for help with: reverse engineering, bug hunting
+- 💬 Ask me about: Web development, partly mobile development since I have a team of mobile developers.
+- 📫 How to reach me: parmonov98.uz
+- ⚡ Fun fact: lazy but progressive
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
