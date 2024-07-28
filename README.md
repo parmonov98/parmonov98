@@ -20,13 +20,10 @@ I am a passionate web developer with over 4 years of experience in building web 
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
 
 ## Experience
-- **[Company Name]** - _[Your Role]_
-  - *[Duration]*
-  - Description of your role and key achievements.
-
-- **[Company Name]** - _[Your Role]_
-  - *[Duration]*
-  - Description of your role and key achievements.
+- **THEDEVS** - _CEO_
+  - *6 months*
+  - My role includes variaty of responsibilities starting from market research and leading execution/implementation of products.
+  - We as as a company focus on product development, not on one-time projects.
 
 ## Projects
 ### [Project Name]
