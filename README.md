@@ -24,7 +24,7 @@ a passionate and progressive web developer with over 5 years of experience in bu
 [Play Market](https://play.google.com/store/apps/details?id=uz.app.zumda.hamkor) ,
 [App Store](https://apps.apple.com/uz/app/zumda-hamkor/id6504386741)
 
-Full-Stack developer/Project manager - Learning requirements of the project and planning, Leading Mobile developers, implementing API for mobile, Web admin panel, 2 bots with different roles, managing in Trello and deploying on VPS(Ubuntu server).
+Full-Stack developer/Project manager - Learning requirements of the project and planning, Leading Mobile developers, implementing API for mobile(cashiers), Web admin panel(operators and admins), 2 bots with different roles, managing in Trello and deploying on VPS(Ubuntu server).
 
 ### [pDaftar] - Debt management 
 [Play Market](https://play.google.com/store/apps/details?id=uz.app.pdaftaruz) ,
