@@ -36,5 +36,11 @@ Full-Stack developer/Project manager - Learning requirements of the project and 
 Implemented Features: Importing Materials, Producing Products, Sales(Materials, Products), Employees, Expenses With categories and Dashboards.
 Full-Stack developer - Learning requirements of the project and planning, implementing, managing in Trello and deploying on VPS(Ubuntu server).
 
+### [Clarifyy AI] - DNA
+Implemented Features: Managing multiple companies, Departments, Crews(Teams), Employees. Dashboards and Chartjs for meeasuring efficiency and productivy of employees/crews.
+Full-Stack developer - implementing and deploying on VPS.
+
+
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/orzumurod-parmonov-8b5088137/)
