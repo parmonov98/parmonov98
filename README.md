@@ -1,7 +1,7 @@
 # Hi there, I'm a web dev! 👋
 
 ## About Me
-I am a passionate web developer with over 5 years of experience in building web applications and leading IT projects. I specialize in front-end and back-end development, and I am keen on creating efficient and devleoping startups/products.
+a passionate and progressive web developer with over 5 years of experience in building web applications and leading IT projects. I specialize in WEB with focus on back-end, and I am keen on creating efficient and devleoping startups/products.
 
 - 🔭 I’m currently working on: Zumda and some automation projects.
 - 🌱 I’m currently learning: Docker, Kubernetees, AWS
