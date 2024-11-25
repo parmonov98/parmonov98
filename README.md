@@ -32,11 +32,11 @@ Full-Stack developer/Project manager - Learning requirements of the project and 
  Debt management mobile application on android and ios platforms. It is focused on managing debts for small businesses who operates.
  Project manager - lead a team of juniors mobile and backend devs, a designer starting from idea to release of Play market/App store.
 
-### [Toirjon Elektron tizimi] - DNA
-Implemented Features: Importing Materials, Producing Products, Sales(Materials, Products), Employees, Expenses With categories and Dashboards.
+### [Manufacturing WMS] - DNA
+Implemented Features: Importing Materials, Producing Products, Sales(Materials, Products), Employees, Expenses With categories, Dashboards/Charts and reports(inventory products/materials, Client/Supplier Transactions).
 Full-Stack developer - Learning requirements of the project and planning, implementing, managing in Trello and deploying on VPS(Ubuntu server).
 
-### [Clarifyy AI] - DNA
+### [Construction Employee/Crew efficiency/productivity optimizing system] - DNA
 Implemented Features: Managing multiple companies, Departments, Crews(Teams), Employees. Dashboards and Chartjs for meeasuring efficiency and productivy of employees/crews.
 Full-Stack developer - implementing and deploying on VPS.
 
